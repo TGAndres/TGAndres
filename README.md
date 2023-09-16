@@ -55,7 +55,7 @@
 </p>
 
 <br>
-<h2> Soy ese 🦆</h2>
+<h2> Soy ese 🦆 (Literally Me) </h2>
 <p align="center">
   <img src="img/Zuko.jpg" width="50%" /> 
   <img src="img/Polar.jpg" width="15.7%" />
