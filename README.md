@@ -2,7 +2,7 @@
     <img src="gif/zuko1.gif" align = "left" width="30%"  />
     <img src="gif/Appa.gif" align = "right" width="35%"  />
 </p>
-<h1 align="center"> 🟩 AndrésTG 🟫</h1>
+<h1 align="center"> 🟩 Andrés TG 🟫</h1>
 <p align="center"> 
   Computer Engineering Student
   <br>
