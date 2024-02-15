@@ -24,7 +24,7 @@
   <li> Online chess is my best ally for waiting times ♟️ </li>
   <li> I love every music genre, but my favs are Synth Pop, Rock, Rap and Ska 🎧 </li>
   <li> For me, the best cuisines in the world are Italian, Mexican and Japanese 🍝</li>
-  <li> My record in rubicks cube is 9.94s 🧩</li>
+  <li> My record in rubik's cube is 9.94s 🧩</li>
 </ul>
 
 
