@@ -21,9 +21,9 @@
   <li> I'm a competitive programmer 🎈 </li>
   <li> I'm a scuba diver and I like to practice freediving 🐋 </li>
   <li> Every plan is a good plan : 🏀🎱⛸️🚴🏻‍♂️🎳 </li>
-  <li> Online chess is my best ally for waiting times ♟️ </li>
-  <li> I love every music genre, but my favs are Synth Pop, Rock, Rap and Ska 🎧 </li>
-  <li> For me, the best cuisines in the world are Italian, Mexican and Japanese 🍝</li>
+  <li> I like online chess♟️ </li>
+  <li> I enjoy every music genre 🎧 </li>
+  <li> I love Italian, Mexican and Japanese cuisines 🍝</li>
   <li> My record in rubik's cube is 9.94s 🧩</li>
 </ul>
 
